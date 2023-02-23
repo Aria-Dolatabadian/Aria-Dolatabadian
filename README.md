@@ -8,4 +8,4 @@ You can also reach me on [Twitter](https://twitter.com/A_Dolatabadian)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aria-Dolatabadian)](https://github.com/Aria-Dolatabadian/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aria-Dolatabadian=compact)](https://github.com/Aria-Dolatabadian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aria-Dolatabadian)](https://github.com/anuraghazra/github-readme-stats)
