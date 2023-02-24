@@ -11,4 +11,3 @@ You can also reach me on [Twitter](https://twitter.com/A_Dolatabadian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aria-Dolatabadian)
 
 
-![2g01g9](https://user-images.githubusercontent.com/74664712/221068400-d8b7b645-1161-4a46-bf9c-8f665a646f7c.jpg)
