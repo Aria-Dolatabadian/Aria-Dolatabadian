@@ -7,7 +7,6 @@ You can also reach me on [Twitter](https://twitter.com/A_Dolatabadian)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aria-Dolatabadian)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aria-Dolatabadian)
 
 
 
