@@ -5,11 +5,8 @@ This profile provides Basic to Pro Python, R and SAS codes with plant genetics, 
 You can also reach me on [X](https://twitter.com/A_Dolatabadian)
 
 
-# Github stats
+# Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aria-Dolatabadian)
-
-# Weekly Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=Aria-Dolatabadian)](https://github.com/anuraghazra/github-readme-stats)
 
 # Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aria-Dolatabadian&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
