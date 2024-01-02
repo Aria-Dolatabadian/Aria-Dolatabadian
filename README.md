@@ -15,9 +15,7 @@ You can also reach me on [X](https://twitter.com/A_Dolatabadian)
 [![Aria Dolatabadian profile views](https://u8views.com/api/v1/github/profiles/74664712/views/day-week-month-total-count.svg)](https://u8views.com/github/Aria-Dolatabadian)
 
 
-[![Aria Dolatabadian profile views](https://u8views.com/api/v1/github/profiles/74664712/views/day-week-month-total-count.svg)](https://u8views.com/github/Aria-Dolatabadian)
 
-<a href="https://u8views.com/github/Aria-Dolatabadian"><img src="https://u8views.com/api/v1/github/profiles/74664712/views/day-week-month-total-count.svg"></a>
 
 
 
