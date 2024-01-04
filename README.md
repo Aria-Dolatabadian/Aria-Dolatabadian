@@ -10,7 +10,6 @@ You can also reach me on [X](https://twitter.com/A_Dolatabadian)
 # Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aria-Dolatabadian&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Aria Dolatabadian profile views](https://u8views.com/api/v1/github/profiles/74664712/views/day-week-month-total-count.svg)](https://u8views.com/github/Aria-Dolatabadian)
 
 
